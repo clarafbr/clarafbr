@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**clarafbr/clarafbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">Streak Stats</h4>
+      <a href="https://github.com/clarafbr">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clarafbr&theme=dracula" width="100%"/>
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <h4 align="center">Most Used Languages</h4>
+      <a href="https://github.com/clarafbr">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarafbr&theme=dracula&layout=compact" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
